@@ -8,13 +8,13 @@ An useful Angularjs service for geolocate with browser
 .Include the file in you index.html
 
 ```javascript
-	<script src="[path]/[to]/geoModule.js"></script>
+<script src="[path]/[to]/geoModule.js"></script>
 ```
 
 .Inject the dependency in you angular app.js
 
 ```javascript
-	var app = angular.module('myApp', ['geoModule']);
+var app = angular.module('myApp', ['geoModule']);
 ```
 
 .Include the service in your controller
