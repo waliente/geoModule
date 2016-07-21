@@ -1,0 +1,9 @@
+{
+  "name": "geoModule",
+  "homepage": "https://github.com/waliente/geoModule",
+  "authors": [
+    "Marco Chierchia <waliente@gmail.com>"
+  ],
+  "description": "An useful Angularjs service for geolocate with browser",
+  "version": 0.1
+}
