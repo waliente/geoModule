@@ -5,6 +5,12 @@ An useful Angularjs service for geolocate with browser
 
 ## How to use
 
+- Install via Bower
+
+```
+bower install geoModule --save-dev
+```
+
 - Include the file in you index.html
 
 ```javascript
