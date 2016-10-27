@@ -1,7 +1,7 @@
 # geoModule
 Geolocate with Browser
 
-An useful Angularjs service for geolocate with browser
+An useful Angularjs service to geolocate with browser
 
 ## How to use
 
